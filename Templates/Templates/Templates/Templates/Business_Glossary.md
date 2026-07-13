@@ -1,4 +1,0 @@
-# Business Glossary
-
-| Term | Definition |
-|-------|------------|
