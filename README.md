@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="images/bg banner.png" width="100%" alt="Harshit Gupta Banner">
+  <img src="./bg%20banner%20_edited.png" width="100%" alt="Harshit Gupta Banner">
+</p>
 </p># Hi there, I'm Harshit Gupta 👋
 ## Data Analyst | Microsoft Fabric | Power BI | Business Intelligence
 
