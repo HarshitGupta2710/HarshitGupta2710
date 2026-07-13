@@ -1,4 +1,6 @@
-# Hi there, I'm Harshit Gupta 👋
+<p align="center">
+  <img src="images/bg banner.png" width="100%" alt="Harshit Gupta Banner">
+</p># Hi there, I'm Harshit Gupta 👋
 ## Data Analyst | Microsoft Fabric | Power BI | Business Intelligence
 
 Microsoft Certified (PL-300 • DP-600 • DP-700 • AZ-900)
