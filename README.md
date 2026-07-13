@@ -1,8 +1,9 @@
 # Hi there, I'm Harshit Gupta 👋
-
 ## Data Analyst | Microsoft Fabric | Power BI | Business Intelligence
 
-I am a Microsoft Certified Data Analyst with **1.5+ years of experience** building enterprise analytics solutions using **Power BI, Microsoft Fabric, SQL, and DAX**.
+Microsoft Certified (PL-300 • DP-600 • DP-700 • AZ-900)
+
+I design Business Intelligence solutions that transform fragmented enterprise data into actionable insights using Microsoft Fabric, Power BI, SQL, DAX, and modern analytics architecture.
 
 I enjoy transforming complex business problems into interactive dashboards and actionable insights across domains such as Manufacturing, Insurance, HR, Logistics, Retail, and Government.
 
